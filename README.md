@@ -1,6 +1,6 @@
-### Здраствуйте, моё имя - Софья! :smile_cat:
+## Здраствуйте, моё имя - Софья! :smile_cat:
 
-## :thought_balloon: Обо мне:
+### :thought_balloon: Обо мне:
 - :game_die: Коллекционирую настольные игры
 - :feet: Обожаю животных
 - :grey_question: Люблю узнавать что-то новое
@@ -8,8 +8,7 @@
 - :books: Всегда стараюсь узнавать что-то новое, будто фреймворки, бибилиотеки и другие вещи, которые могут пригодиться в работе.
 - :computer: Стремлюсь к тому, чтобы научится писать чистый код, который легко поймут мои коллеги.
 ___
-
-## :hammer_and_wrench: Мой стек:
+### :hammer_and_wrench: Мой стек:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -23,4 +22,4 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svgg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+ ___
