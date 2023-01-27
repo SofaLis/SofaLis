@@ -1,4 +1,4 @@
-### Здраствуйте, моё имя - Софья! :smile_cat:
+<p align="center" font-size="12px" > Здраствуйте, моё имя - Софья! :smile_cat: <p>
 ___
 
 ### :thought_balloon: Обо мне:
