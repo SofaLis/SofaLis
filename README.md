@@ -1,4 +1,4 @@
-<div align="center" font-size="25" font-weight="500"> Здраствуйте, моё имя - Софья! :smile_cat: <div>
+<p align="center" font-size="1000" font-weight="500"> Здраствуйте, моё имя - Софья! :smile_cat: <p>
 ___
 
 ### :thought_balloon: Обо мне:
