@@ -25,3 +25,15 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
  ___
+ 
+ ### :e-mail: Контакты:
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47jdk9scokazunrkzov2ph2w1jdlkynb4lrqhhd0v9&rid=giphy.gif&ct=g" width="100"/>
+</div>
+<div id="badges">
+  <img src="https://vk.com/sofalis?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+ ___
