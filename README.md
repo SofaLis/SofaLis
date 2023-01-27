@@ -33,6 +33,8 @@ ___
 
 ### :bar_chart: Моё начало :
 
+<div display="flex">
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=SofaLis)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofaLis&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+</div>
  
