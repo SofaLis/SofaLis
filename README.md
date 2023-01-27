@@ -7,6 +7,10 @@
 - :coffee: Очень хочу найти компанию с дружелюбным и комфортным колективом
 - :books: Всегда стараюсь узнавать что-то новое, будто фреймворки, бибилиотеки и другие вещи, которые могут пригодиться в работе.
 - :computer: Стремлюсь к тому, чтобы научится писать чистый код, который легко поймут мои коллеги.
+
+ <div id="header" align="center">
+  <img src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47jdk9scokazunrkzov2ph2w1jdlkynb4lrqhhd0v9&rid=giphy.gif&ct=g" width="300"/>
+</div>
 ___
 
 ### :hammer_and_wrench: Мой стек:
@@ -23,9 +27,6 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- ___
+___
  
- <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47jdk9scokazunrkzov2ph2w1jdlkynb4lrqhhd0v9&rid=giphy.gif&ct=g" width="300"/>
-</div>
  
