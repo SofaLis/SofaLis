@@ -1,5 +1,4 @@
-<p align="center" font-size="1000" font-weight="500"> Здраствуйте, моё имя - Софья! :smile_cat: <p>
-___
+# Здраствуйте, моё имя - Софья! :smile_cat: #
 
 ### :thought_balloon: Обо мне:
 - :game_die: Коллекционирую настольные игры
