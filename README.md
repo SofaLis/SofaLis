@@ -1,7 +1,4 @@
-Здраствуйте, моё имя - Софья! :smile_cat:
-===
-
-<div id="header" align="center">
+<div id="header" align="center"> ###Здраствуйте, моё имя - Софья! :smile_cat:###
   <img src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47jdk9scokazunrkzov2ph2w1jdlkynb4lrqhhd0v9&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
