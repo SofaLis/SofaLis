@@ -33,6 +33,6 @@ ___
 
 ### :bar_chart: Моё начало :
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=SofaLis)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofaLis&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofaLis&layout=compact&theme=vision-friendly-white&width=200)](https://github.com/anuraghazra/github-readme-stats)
  
