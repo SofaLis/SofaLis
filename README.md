@@ -34,5 +34,7 @@ ___
 ### :bar_chart: Моё начало :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofaLis&show_icons=true&theme=transparent&locale=ru)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofaLis&layout=compact&theme=vision-friendly-white&width=200)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofaLis&show_icons=true&theme=transparent&locale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofaLis&layout=compact&theme=vision-friendly-white&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofaLis&layout=compact&theme=vision-friendly-white&locale=en)](https://github.com/anuraghazra/github-readme-stats)
  
