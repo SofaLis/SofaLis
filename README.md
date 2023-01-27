@@ -31,7 +31,7 @@ ___
 
 ___
 
-### :bar_chart: Моё начало :
+### :bar_chart: Моя статистика :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofaLis&show_icons=true&theme=transparent&locale=ru)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofaLis&show_icons=true&theme=transparent&locale=en)
