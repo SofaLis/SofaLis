@@ -31,6 +31,8 @@ ___
 
 ___
 
-### :fire: My Stats :
+### :bar_chart: Моё начало :
+
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=SofaLis)](https://github.com/anuraghazra/github-readme-stats)
  
  
