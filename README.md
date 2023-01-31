@@ -34,7 +34,7 @@ ___
 
 ### :sunglasses:Проекты:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/SofaLis/movies-explorer-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=movies)](https://github.com/SofaLis/movies-explorer-frontend)
 
 ___
 
