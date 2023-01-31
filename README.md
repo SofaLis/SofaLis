@@ -7,11 +7,6 @@
 - :coffee: Очень хочу найти компанию с дружелюбным и комфортным коллективом
 - :books: Всегда стараюсь узнавать что-то новое, будь то фреймворки, бибилиотеки и многие другие вещи, которые могут пригодиться в разработке.
 - :computer: Стремлюсь к тому, чтобы научится писать чистый код, который легко поймут мои коллеги.
-
- <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47jdk9scokazunrkzov2ph2w1jdlkynb4lrqhhd0v9&rid=giphy.gif&ct=g" width="300"/>
-</div>
-
 ___
 
 ### :hammer_and_wrench: Мой стек:
