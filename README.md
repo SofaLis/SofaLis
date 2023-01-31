@@ -35,6 +35,10 @@ ___
 ### :sunglasses:Проекты:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SofaLis&repo=movies-explorer-frontend)](https://github.com/SofaLis/movies-explorer-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SofaLis&repo=react-mesto-api-full)](https://github.com/SofaLis/react-mesto-api-full)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SofaLis&repo=three_project)](https://github.com/SofaLis/three_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SofaLis&repo=how-to-learn-main)](https://github.com/SofaLis/how-to-learn-maint)
+
 
 ___
 
